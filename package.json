@@ -1,0 +1,17 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "main": "restaurant.js",
+  "scripts": {
+    "start": "node restaurant.js"
+  },
+  "keywords": [],
+  "author": "Sarbik Betal",
+  "license": "ISC",
+  "dependencies": {
+    "@dynatrace/oneagent-sdk": "^1.4.1",
+    "bee-queue": "^1.2.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
