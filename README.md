@@ -77,6 +77,3 @@ When the job is finished:
   "message": "Your 4x Tacos is ready"
 }
 ```
-
-# NodeJS-Queue-DynatraceSDK
-# NodeJS-Queue-DynatraceSDK
